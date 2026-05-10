@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1.C语言初步认识.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.整型变量与其使用.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.浮点型变量与其使用.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.字符型变量与其使用.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.运算符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.分支跳转if switch.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.循环结构 while for do-while.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10.函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11.堆区空间malloc free.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12.字符数组与字符串.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13.结构体 联合 枚举.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14.文件操作.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15.1.位运算 多文件 宏 存储类-多文件1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15.2.位运算 多文件 宏 存储类-防止头文件重复包含.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15.3.位运算 多文件 宏 存储类-全局变量extern.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15.位运算 多文件 宏 存储类.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16.拓展-运算符重要问题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17.拓展-scanf与printf细节问题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18.拓展-结构体存储 整型存储.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19.拓展-浮点型存储详解.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20.拓展-类型转换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21.拓展-复杂指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22.拓展-命令行 volatile restrict.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23.拓展-转义字符 位字段 位域.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24.拓展-预处理拓展.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="位运算 多文件 宏 存储类-多文件1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="位运算 多文件 宏 存储类-防止头文件重复包含.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
